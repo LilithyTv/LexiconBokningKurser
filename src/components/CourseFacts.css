@@ -1,0 +1,33 @@
+/* src/components/CourseFacts.css */
+.course-facts {
+    flex: 1;
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .course-facts h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .course-facts ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .course-facts li {
+    margin-bottom: 10px;
+  }
+  
+  .btn {
+    display: block;
+    padding: 10px;
+    background-color: #3d9b6d;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+  }
+  
